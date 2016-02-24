@@ -38,5 +38,15 @@
   },
   "github:jspm/nodelibs-util@0.1.0": {
     "util": "npm:util@^0.10.3"
+  },
+  "npm:react-dom@0.14.7": {
+    "react": "npm:react@^0.14.7"
+  },
+  "npm:react@0.14.7": {
+    "fbjs": "npm:fbjs@^0.6.1",
+    "process": "github:jspm/nodelibs-process@^0.1.0"
+  },
+  "npm:fbjs@0.6.1": {
+    "process": "github:jspm/nodelibs-process@^0.1.0"
   }
 }
